@@ -24,6 +24,6 @@ void main()
   b--;
   c++;
  }
- cout<<"Done";
+ cout<<"Processing completed!";
  system("PAUSE");
 }
