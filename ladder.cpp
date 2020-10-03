@@ -4,7 +4,7 @@
 void main()
 {
   int a,b,c,d,e;
- cout<<"Enter odd length : ";
+ cout<<"Enter odd length of required array: ";
  cin>>a;
  b=c=a/2;
  if((a%2)==0)
